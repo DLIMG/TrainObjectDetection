@@ -1,0 +1,80 @@
+item{
+    id: 1 # id从1开始编号
+    name: 'chair'
+}
+item{
+    id: 2
+    name: 'car'
+}
+item{
+    id: 3
+    name: 'horse'
+}
+item{
+    id: 4
+    name: 'person'
+}
+item{
+    id: 5
+    name: 'bicycle'
+}
+item{
+    id: 6
+    name: 'cat'
+}
+item{
+    id: 7
+    name: 'dog'
+}
+item{
+    id: 8
+    name: 'train'
+}
+item{
+    id: 9
+    name: 'aeroplane'
+}
+item{
+    id: 10
+    name: 'diningtable'
+}
+item{
+    id: 11
+    name: 'tvmonitor'
+}
+item{
+    id: 12
+    name: 'bird'
+}
+item{
+    id: 13
+    name: 'bottle'
+}
+item{
+    id: 14
+    name: 'motorbike'
+}
+item{
+    id: 15
+    name: 'pottedplant'
+}
+item{
+    id: 16
+    name: 'boat'
+}
+item{
+    id: 17
+    name: 'sofa'
+}
+item{
+    id: 18
+    name: 'sheep'
+}
+item{
+    id: 19
+    name: 'cow'
+}
+item{
+    id: 20
+    name: 'bus'
+}

@@ -1,0 +1,1 @@
+python train.py --logtostderr \ --pipeline_config_path=ssd_mobilenet_v1_coco_2018_01_28\pipeline.config --train_dir=saved_model
